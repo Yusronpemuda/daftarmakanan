@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Daftar Makanan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kelompok</string>
+    <string name="nav_header_subtitle">KELAS B2</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Ilham Firmansyah (1703040055)</string>
+    <string name="menu_gallery">Masum Al Amin (1703040064) </string>
+    <string name="menu_slideshow">Yusron Pemuda (1703040052) </string>
+    <string name="menu_tools">Evan Triadi (1703040054)</string>
+    <string name="menu_share">UMP</string>
+    <string name="menu_send">B1</string>
+
+    <string name="find_movie">Menu Dahar</string>
+    <string name="find">Search Food</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="date_release">Date Release</string>
+</resources>
